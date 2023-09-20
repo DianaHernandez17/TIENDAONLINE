@@ -1,0 +1,71 @@
+{
+  "Usuarios": [
+    {
+      "id": 1,
+      "nombre": "alejandra",
+      "email": "aleja@sena.edu.co",
+      "password": "Aprendiz12345"
+    },
+    {
+      "id": 2,
+      "nombre": "nicolle",
+      "email": "nicolee@sena.edu.co",
+      "password": "Aprendiz123456"
+    },
+    {
+      "email": "mariotechnologys14@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "email": "fandinosantiago151@gmail.com",
+      "password": "asdfgh",
+      "id": 4
+    },
+    {
+      "email": "fandinosantiago1514@gmail.com",
+      "password": "qwerty",
+      "id": 5
+    },
+    {
+      "email": "diana151@gmail.com",
+      "password": "mami14",
+      "id": 6
+    },
+    {
+      "email": "jonathan1@gmail.com",
+      "password": "asdfgh",
+      "id": 7
+    }
+  ],
+  "Productos": [
+    {
+      "id": 1,
+      "nombre": "Dorito",
+      "precio": "25.000",
+      "categoria": "Paquetes",
+      "region": "Pacifico"
+    },
+    {
+      "id": 2,
+      "nombre": "Coco",
+      "precio": "3400",
+      "categoria": "Unidad",
+      "region": "Amazonia"
+    },
+    {
+      "id": "3",
+      "nombre": "Ponques",
+      "precio": "3400",
+      "categoria": "Unidad",
+      "region": "Pacifico"
+    },
+    {
+      "id": "5",
+      "nombre": "Galletas",
+      "precio": "6.000",
+      "categoria": "Unidad",
+      "region": "Orinoquia"
+    }
+  ]
+}
